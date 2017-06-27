@@ -21,3 +21,6 @@
 8. 使用 es2015  
 	npm i --save-dev babel-core babel-loader babel-preset-2015
 
+
+9.!!!!!参考：http://www.cnblogs.com/doudoujun/p/6405534.html
+
