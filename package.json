@@ -13,7 +13,7 @@
     "url": "git+https://github.com/aizipai/webpack2.0-demo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhangzongbao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aizipai/webpack2.0-demo/issues"
@@ -25,6 +25,7 @@
     "babel-loader": "^7.1.0",
     "babel-preset-es2015": "^6.24.1",
     "css-loader": "^0.28.4",
+    "html-webpack-plugin": "^2.29.0",
     "postcss-loader": "^2.0.6",
     "style-css": "^1.0.2",
     "style-loader": "^0.18.2",
